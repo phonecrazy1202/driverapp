@@ -9,7 +9,7 @@ Once logged in, they can update their status from available to not available at 
 
 If you want to run the app in your local system,
 
-1. Clone the repo `git clone https://github.com/driver/DriverStatusApp`
+1. Clone the repo `git clone https://github.com/phonecrazy1202/driverapp.git`
 2. Import the app into Android Studio - File->Import existing project
 3. Run the app and use your phone as the USB device to debug your app
 
